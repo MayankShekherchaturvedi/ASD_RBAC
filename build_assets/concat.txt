@@ -1,0 +1,7 @@
+file '/Users/mightylore/Documents/BlackApple_Bridge/M3_AnimationVideo_Derivative_E25B070727/_Code/build_assets/segments/00_opening.mp4'
+file '/Users/mightylore/Documents/BlackApple_Bridge/M3_AnimationVideo_Derivative_E25B070727/_Code/build_assets/segments/01_hook.mp4'
+file '/Users/mightylore/Documents/BlackApple_Bridge/M3_AnimationVideo_Derivative_E25B070727/_Code/build_assets/segments/02_concept.mp4'
+file '/Users/mightylore/Documents/BlackApple_Bridge/M3_AnimationVideo_Derivative_E25B070727/_Code/build_assets/segments/03_intuition.mp4'
+file '/Users/mightylore/Documents/BlackApple_Bridge/M3_AnimationVideo_Derivative_E25B070727/_Code/build_assets/segments/04_example.mp4'
+file '/Users/mightylore/Documents/BlackApple_Bridge/M3_AnimationVideo_Derivative_E25B070727/_Code/build_assets/segments/05_interpretation.mp4'
+file '/Users/mightylore/Documents/BlackApple_Bridge/M3_AnimationVideo_Derivative_E25B070727/_Code/build_assets/segments/06_summary.mp4'
